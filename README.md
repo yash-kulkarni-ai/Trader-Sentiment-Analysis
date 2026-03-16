@@ -92,5 +92,5 @@ All 9 figures are saved as PNG files automatically.
 
 ---
 
-*Submitted for: Python Development Intern @ Anything.ai*  
+*Submitted for: Python Development Intern*  
 *Analysis: EDA · Sentiment Analysis · Statistical Testing · Trading Strategy Insights*
